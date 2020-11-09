@@ -12,11 +12,11 @@ Saved variables can be used in an expression e.g. input: a + 5, output: 10
 
 Quit the program by writing '/exit'.
 
-Examples:
-
-Input: 8 * 3 + 12 * (4 - 2)
-Result: 48
-
+Examples:  
+  
+Input: 8 * 3 + 12 * (4 - 2)  
+Result: 48  
+  
 Input: 1 +++ 2 * 3 -- 4
 Result: 11
 
