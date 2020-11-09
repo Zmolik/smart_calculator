@@ -9,10 +9,10 @@ It uses conversion from infix to postfix notation in order to calculate complex 
 Part of the program is assignment of values to variables e.g. a = 5, that can later be used in an expression.
 
 Examples('>' represent user input):
-> 8 * 3 + 12 * (4 - 2)
+'>'8 * 3 + 12 * (4 - 2)
 48
 
-> 2 - 2 + 3
+'>'2 - 2 + 3
 3
 
 > 4 * (2 + 3
