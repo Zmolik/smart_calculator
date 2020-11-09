@@ -12,7 +12,7 @@ Part of the program is assignment of values to variables e.g. a = 5, that are sa
 Quit the program by writing '/exit'.
 
 Examples:
-\> 8 * 3 + 12 * (4 - 2)
+\ 8 * 3 + 12 * (4 - 2)
 48
 \> 2 - 2 + 3
 3
