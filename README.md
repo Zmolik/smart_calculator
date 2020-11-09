@@ -8,4 +8,6 @@ It uses conversion from infix to postfix notation in order to calculate complex 
 
 Part of the program is assignment of values to variables e.g. a = 5, that can later be used in an expression: a + 5, output: 10
 
+Quit the program by writing '/exit'.
+
 
