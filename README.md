@@ -16,12 +16,13 @@ Examples:
   
 Input: 8 * 3 + 12 * (4 - 2)  
 Result: 48  
+    
+Input: 1 +++ 2 * 3 -- 4  
+Result: 11  
   
-Input: 1 +++ 2 * 3 -- 4
-Result: 11
-
-Input:a=4
-Input:b = 5
-Input:c=6
-Input:a*2+b*3+c*(2+3)
-Result:53
+Input:a=4  
+Input:b = 5  
+Input:c=6  
+Input:a*2+b*3+c*(2+3)  
+Result:53  
+  
